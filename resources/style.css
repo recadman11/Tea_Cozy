@@ -65,7 +65,7 @@ a{
   width: 1200px;
   justify-content: center;
   height: 700px;
-  background-image: url(background.jpg);
+  background-image: url(background.jpg) ;
 }
 h2, h4, p{
   text-align: center;
